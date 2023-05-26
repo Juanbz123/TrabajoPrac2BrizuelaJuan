@@ -69,24 +69,31 @@ body {
     ALL: Orange Theme
    =================== */
 
+
+
 .header-container {
-    border-bottom: 20px solid #e44d26;
+border-bottom: 20px solid #38B0FD;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-top: 20px solid #38B0FD;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    background: #38B0FD;
 }
 
 .title {
     color: white;
+	font-family:papyrus;
+	
 }
+
+
+
 
 /* ==============
     MOBILE: Menu
