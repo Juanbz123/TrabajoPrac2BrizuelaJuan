@@ -107,15 +107,18 @@ nav ul {
 
 nav a {
     display: block;
-    margin-bottom: 10px;
-    padding: 15px 0;
+    margin-bottom: 30px;
+    padding: 30px 0;
 
     text-align: center;
-    text-decoration: none;
+    text-decoration: #E2F83D;
     font-weight: bold;
 
-    color: white;
-    background: #e44d26;
+    color: black;
+    background: #38B0FD;
+	border-top: 10px solid #DFF43E;
+	font-family:Consolas;
+	
 }
 
 nav a:hover,
